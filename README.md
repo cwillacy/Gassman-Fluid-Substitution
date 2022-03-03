@@ -1,4 +1,4 @@
-# Gassman-Fluid-Substitution
+# Gassmann-Fluid-Substitution
 Python Jupyter Notebooks for applying Gassmann Fluid Substitution
 
 The following Python Jupyter notebooks provide a simple step by step implementation of the Gassmann fluid substitution equations for porous media.
