@@ -7,4 +7,5 @@ Details of the functionality for each implementation can be found in the noteboo
 
 Disclaimer
 - This is test code
+- This software is unlicensed and may be freely copied and modified
 - Please report any issues to christopher.willacy@shell.com
